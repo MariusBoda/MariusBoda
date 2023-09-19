@@ -21,10 +21,8 @@ I'm a passionate student in the final year of my studies at Aalto University, wh
 
 #### Connect with Me
 
-- 📫 **Email**: marius@email.com
-- 💼 **LinkedIn**: [Marius on LinkedIn](https://www.linkedin.com/in/marius/)
-- 🐦 **Twitter**: [@marius_quantum](https://twitter.com/marius_quantum)
-- 🌐 **Personal Website**: [www.mariusquantum.com](https://www.mariusquantum.com)
+- 📫 **Email**: marius.boda@aalto.fi
+- 💼 **LinkedIn**: [Marius on LinkedIn](https://www.linkedin.com/in/mariusboda/)
 
 #### GitHub Stats
 
