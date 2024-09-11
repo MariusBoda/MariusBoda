@@ -21,8 +21,4 @@ I'm a passionate student in the final year of my studies at Aalto University, wh
 - 📫 **Email**: marius.boda@aalto.fi
 - 💼 **LinkedIn**: [Marius on LinkedIn](https://www.linkedin.com/in/mariusboda/)
 
-#### GitHub Stats
-
-![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
 Thanks for visiting my GitHub profile! ✨
