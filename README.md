@@ -1,22 +1,19 @@
 ### Hi there, I'm Marius! 👋
 
-I'm a passionate student in the final year of my studies at Aalto University, where I'm majoring in Quantum Technology and minoring in Mathematics. 📚
+I'm a passionate student in the final year of my studies at Aalto University, where I'm majoring in Computer Science with a focus on Machine Learning, Data Science, and Artificial Intelligence. 📚
 
 #### About Me
 
-- 🎓 **Education**: Currently pursuing a Bachelor's degree in Quantum Technology at Aalto University.
-- 📐 **Minor**: My academic interests extend to mathematics, which I'm minoring in to deepen my understanding of the quantum world.
-- 💡 **Passion**: I'm fascinated by the world of quantum technology and its potential to revolutionize computing, cryptography, and beyond.
-- 🌌 **Future**: Excited about the endless possibilities in the quantum realm and looking forward to contributing to this cutting-edge field.
-- 💬 **Reach Out**: Feel free to connect with me to discuss quantum tech, math, or anything else!
+- 🎓 **Education**: Currently pursuing a Master's degree in Computer Science at Aalto University.
+- 🤖 **Major**: Machine Learning, Data Science, and AI.
 
 #### Skills
 
-- 💡 Quantum Computing
-- 📐 Mathematics
-- 💻 Programming (Python, C++)
-- 📊 Data Analysis
-- 🧪 Laboratory Research
+- 🤖 Machine Learning
+- 📊 Data Science
+- 💻 Programming (Python, Java, Scala, C++)
+- 📈 Data Analysis
+- 🧠 Artificial Intelligence
 - 🌐 Web Development (HTML, CSS, JavaScript)
 
 #### Connect with Me
